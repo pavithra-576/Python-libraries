@@ -41,6 +41,7 @@ Build AI & ML projects
 Practice real-world implementations
 Explore modern AI technologies
 Create scalable applications
+
 🚀 Future Additions
 TensorFlow
 Generative AI
@@ -49,8 +50,8 @@ AI Agents
 MLOps
 Deployment Projects
 Real-world AI Systems
-⭐ Repository Focus
 
+⭐ Repository Focus
 ✔️ Beginner to Advanced Learning
 ✔️ Real-world Projects
 ✔️ AI & Data Science
