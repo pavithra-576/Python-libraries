@@ -1,6 +1,7 @@
 PYTHON LIBRARIES COLLECTION
 🚀 A complete collection of powerful Python Libraries for
 Data Science, Machine Learning, Deep Learning, NLP, Computer Vision, Backend Development, and AI Applications.
+
 📚 TECHNOLOGIES & LIBRARIES
 📊 DATA ANALYSIS
 NumPy
@@ -27,12 +28,14 @@ TorchVision
 🌐 BACKEND & DEPLOYMENT
 FastAPI
 Streamlit
+
 🎯 OBJECTIVES
 Learn Python Libraries from basics to advanced
 Build AI & ML Projects
 Practice Real-world Implementations
 Explore Modern AI Technologies
 Create Scalable Applications
+
 🚀 FUTURE ADDITIONS
 TensorFlow
 Generative AI
@@ -41,8 +44,8 @@ AI Agents
 MLOps
 Deployment Projects
 Real-world AI Systems
-⭐ REPOSITORY FOCUS
 
+⭐ REPOSITORY FOCUS
 ✔️ Beginner to Advanced Learning
 ✔️ Real-world Projects
 ✔️ AI & Data Science
