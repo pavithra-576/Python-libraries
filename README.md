@@ -1,48 +1,39 @@
-# Python-libraries
-Python Libraries Collection
-
-🚀 A complete collection of powerful Python libraries for
+PYTHON LIBRARIES COLLECTION
+🚀 A complete collection of powerful Python Libraries for
 Data Science, Machine Learning, Deep Learning, NLP, Computer Vision, Backend Development, and AI Applications.
-
-This repository is created to learn, practice, and build real-world projects using modern Python technologies.
-
-📚 Technologies & Libraries
-📊 Data Analysis
-
-NumPy • Pandas
-
-📈 Data Visualization
-
-Matplotlib • Seaborn • Plotly
-
-🤖 Machine Learning
-
-Scikit-learn • XGBoost
-
-🧠 Deep Learning
-
+📚 TECHNOLOGIES & LIBRARIES
+📊 DATA ANALYSIS
+NumPy
+Pandas
+📈 DATA VISUALIZATION
+Matplotlib
+Seaborn
+Plotly
+🤖 MACHINE LEARNING
+Scikit-learn
+XGBoost
+🧠 DEEP LEARNING
 PyTorch
-
-💬 Natural Language Processing (NLP)
-
-NLTK • spaCy • Transformers • LangChain
-
-👁️ Computer Vision (CV)
-
-OpenCV • YOLO • MediaPipe • TorchVision
-
-🌐 Backend & Deployment
-
-FastAPI • Streamlit
-
-🎯 Objectives
-Learn Python libraries from basics to advanced
-Build AI & ML projects
-Practice real-world implementations
-Explore modern AI technologies
-Create scalable applications
-
-🚀 Future Additions
+💬 NATURAL LANGUAGE PROCESSING (NLP)
+NLTK
+spaCy
+Transformers
+LangChain
+👁️ COMPUTER VISION (CV)
+OpenCV
+YOLO
+MediaPipe
+TorchVision
+🌐 BACKEND & DEPLOYMENT
+FastAPI
+Streamlit
+🎯 OBJECTIVES
+Learn Python Libraries from basics to advanced
+Build AI & ML Projects
+Practice Real-world Implementations
+Explore Modern AI Technologies
+Create Scalable Applications
+🚀 FUTURE ADDITIONS
 TensorFlow
 Generative AI
 LLM Applications
@@ -50,14 +41,14 @@ AI Agents
 MLOps
 Deployment Projects
 Real-world AI Systems
+⭐ REPOSITORY FOCUS
 
-⭐ Repository Focus
 ✔️ Beginner to Advanced Learning
 ✔️ Real-world Projects
 ✔️ AI & Data Science
 ✔️ Modern Python Ecosystem
 ✔️ Open-source Contributions
 
-📜 License
+📜 LICENSE
 
 Open-source under the MIT License.
